@@ -51,6 +51,7 @@ CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u
 CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
 CCTV16,http://router.870503.xyz:18885/udp/239.45.0.10:5140
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV1,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 CCTV2,http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
@@ -69,7 +70,7 @@ CCTV13,http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
 CCTV14,http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 CCTV15,http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
 CCTV16,http://router.870503.xyz:18885/udp/239.45.0.10:5140
-CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 CCTV 1,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV 1,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
